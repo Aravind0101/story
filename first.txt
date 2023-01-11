@@ -1,1 +1,3 @@
-hello there!! just trying to lern git, nothing else.
+hello there!! just trying to lern git, nothing else. 
+second commit
+
